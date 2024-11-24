@@ -1,0 +1,11 @@
+C:\Users\ibrah_3jhcyh9\Desktop\denemeEticaret\ETicaretAPI\Infrastructure\ETicaretAPI.Application\bin\Debug\net8.0\ETicaretAPI.Infrastructure.deps.json
+C:\Users\ibrah_3jhcyh9\Desktop\denemeEticaret\ETicaretAPI\Infrastructure\ETicaretAPI.Application\bin\Debug\net8.0\ETicaretAPI.Infrastructure.dll
+C:\Users\ibrah_3jhcyh9\Desktop\denemeEticaret\ETicaretAPI\Infrastructure\ETicaretAPI.Application\bin\Debug\net8.0\ETicaretAPI.Infrastructure.pdb
+C:\Users\ibrah_3jhcyh9\Desktop\denemeEticaret\ETicaretAPI\Infrastructure\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah_3jhcyh9\Desktop\denemeEticaret\ETicaretAPI\Infrastructure\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ibrah_3jhcyh9\Desktop\denemeEticaret\ETicaretAPI\Infrastructure\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\ibrah_3jhcyh9\Desktop\denemeEticaret\ETicaretAPI\Infrastructure\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ibrah_3jhcyh9\Desktop\denemeEticaret\ETicaretAPI\Infrastructure\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Infrastructure.dll
+C:\Users\ibrah_3jhcyh9\Desktop\denemeEticaret\ETicaretAPI\Infrastructure\ETicaretAPI.Application\obj\Debug\net8.0\refint\ETicaretAPI.Infrastructure.dll
+C:\Users\ibrah_3jhcyh9\Desktop\denemeEticaret\ETicaretAPI\Infrastructure\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Infrastructure.pdb
+C:\Users\ibrah_3jhcyh9\Desktop\denemeEticaret\ETicaretAPI\Infrastructure\ETicaretAPI.Application\obj\Debug\net8.0\ref\ETicaretAPI.Infrastructure.dll
