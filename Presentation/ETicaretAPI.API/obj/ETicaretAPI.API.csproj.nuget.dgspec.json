@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj": {}
+    "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj": {
+    "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
+        "projectUniqueName": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
         "projectName": "ETicaretAPI.Application",
-        "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
+        "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
         "packagesPath": "C:\\Users\\ibrah_3jhcyh9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\obj\\",
+        "outputPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibrah_3jhcyh9\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj"
+              "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj"
               }
             }
           }
@@ -49,6 +49,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.3, )"
@@ -74,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
+    "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
         "projectName": "ETicaretAPI.Domain",
-        "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
+        "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\ibrah_3jhcyh9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\obj\\",
+        "outputPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibrah_3jhcyh9\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj": {
+    "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Application\\ETicaretAPI.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj",
-        "projectName": "ETicaretAPI.Persistence",
-        "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Application\\ETicaretAPI.Infrastructure.csproj",
+        "projectName": "ETicaretAPI.Infrastructure",
+        "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Application\\ETicaretAPI.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ibrah_3jhcyh9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibrah_3jhcyh9\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,11 +170,85 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj": {
-                "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj"
+              "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj",
+        "projectName": "ETicaretAPI.Persistence",
+        "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj",
+        "packagesPath": "C:\\Users\\ibrah_3jhcyh9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ibrah_3jhcyh9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj"
               },
-              "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj"
+              "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj"
               }
             }
           }
@@ -229,14 +315,14 @@
         }
       }
     },
-    "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj": {
+    "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj",
+        "projectUniqueName": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj",
         "projectName": "ETicaretAPI.API",
-        "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj",
+        "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj",
         "packagesPath": "C:\\Users\\ibrah_3jhcyh9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\obj\\",
+        "outputPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibrah_3jhcyh9\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -253,11 +339,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj": {
-                "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj"
+              "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj"
               },
-              "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj": {
-                "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj"
+              "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Application\\ETicaretAPI.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Application\\ETicaretAPI.Infrastructure.csproj"
+              },
+              "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj": {
+                "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj"
               }
             }
           }

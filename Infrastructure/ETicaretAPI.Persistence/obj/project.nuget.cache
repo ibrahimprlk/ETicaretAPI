@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "gHAdlBi6bbkbrvTh5yaxYFYoLTek+FZpEs6sAE1/5eLjDFfg3K0SXE23euCU4cc3RU1D724qXpSgHU6YUH3sHg==",
+  "dgSpecHash": "5PxJ/L0naAIavaJSuxdVpk+rnySSWDCnIOSanmOV7pzBt353+KdhAabywiavVHoWptJ2NNTDq4GOWljh73HIjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ibrah_3jhcyh9\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\ibrah_3jhcyh9\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\ibrah_3jhcyh9\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "C:\\Users\\ibrah_3jhcyh9\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ibrah_3jhcyh9\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\ibrah_3jhcyh9\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

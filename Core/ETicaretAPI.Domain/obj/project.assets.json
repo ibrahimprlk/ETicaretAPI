@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
       "projectName": "ETicaretAPI.Domain",
-      "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
+      "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
       "packagesPath": "C:\\Users\\ibrah_3jhcyh9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\denemeEticaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\obj\\",
+      "outputPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ibrah_3jhcyh9\\AppData\\Roaming\\NuGet\\NuGet.Config",

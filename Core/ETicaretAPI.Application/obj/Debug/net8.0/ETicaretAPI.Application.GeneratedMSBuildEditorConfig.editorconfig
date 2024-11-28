@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ETicaretAPI.Application
-build_property.ProjectDir = C:\Users\ibrah_3jhcyh9\Desktop\denemeEticaret\ETicaretAPI\Core\ETicaretAPI.Application\
+build_property.ProjectDir = C:\Users\ibrah_3jhcyh9\Desktop\ETicaret\ETicaretAPI\Core\ETicaretAPI.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
