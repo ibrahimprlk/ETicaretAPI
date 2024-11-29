@@ -696,11 +696,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
+      "projectUniqueName": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
       "projectName": "ETicaretAPI.Application",
-      "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
+      "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
       "packagesPath": "C:\\Users\\ibrah_3jhcyh9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Application\\obj\\",
+      "outputPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Core\\ETicaretAPI.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ibrah_3jhcyh9\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -717,8 +717,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
-              "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj"
+            "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
+              "projectPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj"
             }
           }
         }

@@ -1,8 +1,11 @@
 using ETicaretAPI.Application.Validators.Products;
 using ETicaretAPI.Infrastructure.Filters;
+using ETicaretAPI.Infrastructure.Services.Storage.Azure;
+using ETicaretAPI.Infrastructure.Services.Storage.Local;
 using ETicaretAPI.Persistence;
 using ETicaretAPI.Infrastructure;
 using FluentValidation.AspNetCore;
+using ETicaretAPI.Infrastructure.Services.Storage;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +17,9 @@ builder.Services.AddPersistenceServices();
 builder.Services.AddInfrastructureServices();
 // Add services to the container.
 
+
+builder.Services.AddStorage<LocalStorage>();
+//builder.Services.AddStorage<AzureStorage>();
 builder.Services.AddControllers(options => options.Filters.Add<ValidationFilter>()).AddFluentValidation(configuration => configuration.RegisterValidatorsFromAssemblyContaining<CreateProductValidator>()).ConfigureApiBehaviorOptions(options => options.SuppressModelStateInvalidFilter = true);
 
 builder.Services.AddControllers();

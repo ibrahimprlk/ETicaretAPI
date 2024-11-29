@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XoQhFkWfa37wmTwwBcvh5Z8P3hpJMSQXs94ARnPPSDg=",
+  "Hash": "dpOcnEQ3yQulqGBaGrCpYJ3jc5uNrVxPL+pE4e6w8qc=",
   "Source": "ETicaretAPI.API",
   "BasePath": "_content/ETicaretAPI.API",
   "Mode": "Default",
@@ -10,10 +10,49 @@
     {
       "Name": "ETicaretAPI.API\\wwwroot",
       "Source": "ETicaretAPI.API",
-      "ContentRoot": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\ETicaret\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\",
       "BasePath": "_content/ETicaretAPI.API",
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\photo-images\\files",
+      "SourceId": "ETicaretAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\",
+      "BasePath": "_content/ETicaretAPI.API",
+      "RelativePath": "photo-images/files",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photo-images\\files"
+    },
+    {
+      "Identity": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\resource\\files\\files",
+      "SourceId": "ETicaretAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\",
+      "BasePath": "_content/ETicaretAPI.API",
+      "RelativePath": "resource/files/files",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resource\\files\\files"
+    }
+  ]
 }
