@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5E7C84EB-8B60-4F63-91D5-9DD6CCAB7CCB}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\ibrah_3jhcyh9\\desktop\\api\\eticaretapi\\core\\eticaretapi.application\\features\\commands\\product\\removeproduct\\removeproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7C84EB-8B60-4F63-91D5-9DD6CCAB7CCB}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\commands\\product\\removeproduct\\removeproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7C84EB-8B60-4F63-91D5-9DD6CCAB7CCB}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\ibrah_3jhcyh9\\desktop\\api\\eticaretapi\\core\\eticaretapi.application\\features\\commands\\product\\removeproduct\\removeproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7C84EB-8B60-4F63-91D5-9DD6CCAB7CCB}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\commands\\product\\removeproduct\\removeproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7C84EB-8B60-4F63-91D5-9DD6CCAB7CCB}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\ibrah_3jhcyh9\\desktop\\api\\eticaretapi\\core\\eticaretapi.application\\features\\commands\\product\\removeproduct\\removeproductcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7C84EB-8B60-4F63-91D5-9DD6CCAB7CCB}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\commands\\product\\removeproduct\\removeproductcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29F6CA89-D58B-4B99-9E2A-8F63AD3B763E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\ibrah_3jhcyh9\\desktop\\api\\eticaretapi\\presentation\\eticaretapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29F6CA89-D58B-4B99-9E2A-8F63AD3B763E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29F6CA89-D58B-4B99-9E2A-8F63AD3B763E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|c:\\users\\ibrah_3jhcyh9\\desktop\\api\\eticaretapi\\presentation\\eticaretapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{29F6CA89-D58B-4B99-9E2A-8F63AD3B763E}|Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj|solutionrelative:presentation\\eticaretapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5E7C84EB-8B60-4F63-91D5-9DD6CCAB7CCB}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\ibrah_3jhcyh9\\desktop\\api\\eticaretapi\\core\\eticaretapi.application\\features\\commands\\product\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7C84EB-8B60-4F63-91D5-9DD6CCAB7CCB}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\commands\\product\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7C84EB-8B60-4F63-91D5-9DD6CCAB7CCB}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\ibrah_3jhcyh9\\desktop\\api\\eticaretapi\\core\\eticaretapi.application\\features\\commands\\product\\updateproduct\\updateproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7C84EB-8B60-4F63-91D5-9DD6CCAB7CCB}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\commands\\product\\updateproduct\\updateproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7C84EB-8B60-4F63-91D5-9DD6CCAB7CCB}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|c:\\users\\ibrah_3jhcyh9\\desktop\\api\\eticaretapi\\core\\eticaretapi.application\\features\\commands\\product\\updateproduct\\updateproductcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7C84EB-8B60-4F63-91D5-9DD6CCAB7CCB}|Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj|solutionrelative:core\\eticaretapi.application\\features\\commands\\product\\updateproduct\\updateproductcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +38,104 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAABQAAABBAAAA",
+              "DocumentIndex": 6,
+              "Title": "UpdateProductCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandResponse.cs",
+              "ToolTip": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T00:34:38.141Z",
+              "WhenOpened": "2024-11-30T22:54:03.389Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProductCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandRequest.cs",
+              "ToolTip": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandRequest.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:54:48.1Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:55:29.784Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemoveProductCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandResponse.cs",
+              "ToolTip": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandResponse.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:56:10.707Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\appsettings.json",
-              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-29T00:33:58.281Z",
+              "Title": "RemoveProductCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandRequest.cs",
+              "ToolTip": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandRequest.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:56:36.152Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RemoveProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandHandler.cs",
+              "RelativeToolTip": "Core\\ETicaretAPI.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:57:08.692Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ibrah_3jhcyh9\\Desktop\\api\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Presentation\\ETicaretAPI.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA5wDIAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:57:53.388Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]

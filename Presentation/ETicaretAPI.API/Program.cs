@@ -6,6 +6,7 @@ using ETicaretAPI.Persistence;
 using ETicaretAPI.Infrastructure;
 using FluentValidation.AspNetCore;
 using ETicaretAPI.Infrastructure.Services.Storage;
+using ETicaretAPI.Application;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +16,7 @@ builder.Services.AddCors(options => options.AddDefaultPolicy(policy =>
 
 builder.Services.AddPersistenceServices();
 builder.Services.AddInfrastructureServices();
+builder.Services.AddApplicationServices();
 // Add services to the container.
 
 
