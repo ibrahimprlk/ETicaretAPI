@@ -33,3 +33,4 @@ C:\Users\ibrah_3jhcyh9\Desktop\api\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug
 C:\Users\ibrah_3jhcyh9\Desktop\api\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\refint\ETicaretAPI.Domain.dll
 C:\Users\ibrah_3jhcyh9\Desktop\api\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.pdb
 C:\Users\ibrah_3jhcyh9\Desktop\api\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ref\ETicaretAPI.Domain.dll
+C:\Users\ibrah_3jhcyh9\Desktop\api\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.csproj.AssemblyReference.cache
