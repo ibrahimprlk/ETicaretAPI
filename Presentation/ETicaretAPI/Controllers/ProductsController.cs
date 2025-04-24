@@ -31,15 +31,22 @@ namespace ETicaretAPI.Controllers
             _orderReadRepository = orderReadRepository;
         }
 
+        [HttpGet("[action]")]
+        public async Task<IActionResult> Get()
+        {
+           var list= _productReadRepository.GetAll();
+            return Ok(list);
+        }
+
         [HttpGet]
         public async Task<IActionResult> Add()
         {
-            Product product=new Product();
+            Product product = new Product();
             product.Name = "Product 1";
             product.Stock = 15;
             product.Price = 150;
             await _productWriteRepository.AddAsync(product);
-            await _productWriteRepository.SaveAsync();  
+            await _productWriteRepository.SaveAsync();
             return StatusCode((int)HttpStatusCode.Created);
         }
     }
