@@ -1,3 +1,6 @@
+using Application.Validators.Products;
+using FluentValidation.AspNetCore;
+using Infrastructure.Filters;
 using Persistence;
 
 
@@ -8,8 +11,11 @@ builder.Services.AddCors(options=>options.AddDefaultPolicy(policy=>policy.AllowA
 );
 builder.Services.AddPersistenceServices();
 
-builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddControllers(options => options.Filters.Add<ValidationFilter>())
+     .AddFluentValidation(configuration => configuration.RegisterValidatorsFromAssemblyContaining<CreateProductValidator>())
+     .ConfigureApiBehaviorOptions(options => options.SuppressModelStateInvalidFilter = true);
+
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
