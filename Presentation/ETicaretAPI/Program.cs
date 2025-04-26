@@ -2,6 +2,7 @@ using Application.Validators.Products;
 using FluentValidation.AspNetCore;
 using Infrastructure.Filters;
 using Persistence;
+using Infrastructure;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +11,7 @@ builder.Services.AddCors(options=>options.AddDefaultPolicy(policy=>policy.AllowA
     .AllowAnyMethod().WithOrigins("http://localhost:4200", "https://localhost:4200"))
 );
 builder.Services.AddPersistenceServices();
+builder.Services.AddInfrastructureServices();
 
 builder.Services.AddControllers(options => options.Filters.Add<ValidationFilter>())
      .AddFluentValidation(configuration => configuration.RegisterValidatorsFromAssemblyContaining<CreateProductValidator>())
