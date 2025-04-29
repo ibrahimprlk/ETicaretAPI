@@ -1,3 +1,4 @@
+using Application;
 using Application.Validators.Products;
 using FluentValidation.AspNetCore;
 using Infrastructure.Filters;
@@ -13,6 +14,7 @@ builder.Services.AddCors(options=>options.AddDefaultPolicy(policy=>policy.AllowA
 );
 builder.Services.AddPersistenceServices();
 builder.Services.AddInfrastructureServices();
+builder.Services.AddApplicationServices();
 
 builder.Services.AddStorage<LocalStorage>();
 //builder.Services.AddStorage();
