@@ -1,11 +1,13 @@
 ﻿using Application.Abstractions.Storage;
 using Application.Abstractions.Storage.Azure;
+using Application.Abstractions.Token;
 using Application.Services;
 using Infrastructure.Enums;
 using Infrastructure.Services;
 using Infrastructure.Services.Storage;
 using Infrastructure.Services.Storage.Azure;
 using Infrastructure.Services.Storage.Local;
+using Infrastructure.Services.Token;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -20,6 +22,7 @@ namespace Infrastructure
         public static void AddInfrastructureServices(this IServiceCollection serviceCollection)
         {
             serviceCollection.AddScoped<IStorageService, StorageService>();
+            serviceCollection.AddScoped<ITokenHandler, TokenHandler>();
         }
         public static void AddStorage<T>(this IServiceCollection serviceCollection) where T : Storage, IStorage
         {
