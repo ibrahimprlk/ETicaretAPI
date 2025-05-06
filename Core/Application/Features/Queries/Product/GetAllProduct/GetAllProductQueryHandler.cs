@@ -13,16 +13,16 @@ namespace Application.Features.Queries.Product.GetAllProduct
     public class GetAllProductQueryHandler : IRequestHandler<GetAllProductQueryRequest, GetAllProductQueryResponse>
     {
         readonly IProductReadRepository _productReadRepository;
-      //  readonly ILogger<GetAllProductQueryHandler> _logger;
-        public GetAllProductQueryHandler(IProductReadRepository productReadRepository 
-            )
+        readonly ILogger<GetAllProductQueryHandler> _logger;
+        public GetAllProductQueryHandler(IProductReadRepository productReadRepository
+, ILogger<GetAllProductQueryHandler> logger)
         {
             _productReadRepository = productReadRepository;
-         //   _logger = logger;
+            _logger = logger;
         }
         public async Task<GetAllProductQueryResponse> Handle(GetAllProductQueryRequest request, CancellationToken cancellationToken)
         {
-          //  _logger.LogInformation("Get all products");
+            _logger.LogInformation("Get all products");
 
             var totalProductCount = _productReadRepository.GetAll(false).Count();
 

@@ -65,7 +65,7 @@ namespace Application.Features.Commands.AppUser.FacebookLogin
                 {
                     await _userManager.AddLoginAsync(user, info); //AspNetUserLogins
 
-                    Token token = _tokenHandler.CreateAccessToken(5);
+                    Token token = _tokenHandler.CreateAccessToken(5,user);
                     return new()
                     {
                         Token = token

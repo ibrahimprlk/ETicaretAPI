@@ -37,7 +37,7 @@ namespace Application.Features.Commands.AppUser.LoginUser
              
             if (result.Succeeded) //Authentication başarılı!
             {
-                Token token = _tokenHandler.CreateAccessToken(600);
+                Token token = _tokenHandler.CreateAccessToken(600, user);
                 return new LoginUserSuccessCommandResponse()
                 {
                     Token = token

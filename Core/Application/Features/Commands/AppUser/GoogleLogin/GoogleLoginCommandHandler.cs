@@ -57,7 +57,7 @@ namespace Application.Features.Commands.AppUser.GoogleLogin
             else
                 throw new Exception("Invalid external authentication.");
 
-            Token token = _tokenHandler.CreateAccessToken(5);
+            Token token = _tokenHandler.CreateAccessToken(5, user);
 
             return new()
             {
